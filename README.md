@@ -11,3 +11,8 @@ It can be used to model temperature over time allowing for analysis of energy co
 
 * run_experiment.py is an example file used to run two simple simulations. First one checks if its better to place heaters next to windows or not.
                   The second one checks if its better energy-wise to turn of heating when you leave house of leave it on.
+
+## to-do
+*  change behaviour of walls
+*  make starting conditions more general
+
